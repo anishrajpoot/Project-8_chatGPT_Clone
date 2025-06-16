@@ -2,8 +2,6 @@
 
 A simple **ChatGPT UI Clone** built with **React** to mimic the interface and basic layout of ChatGPT. This project is focused on frontend design and layout only — **no API integration**.
 
-![ChatGPT UI Clone Screenshot](./screenshot/chatgpt-clone-ui.png)
-
 ## 🛠️ Tech Stack
 
 - ⚛️ React (with Create React App or Vite)
@@ -24,4 +22,9 @@ A simple **ChatGPT UI Clone** built with **React** to mimic the interface and ba
 - No actual chat functionality
 - No OpenAI API integration
 - This is a frontend design-only project
+
+#ScreenShot-
+
+![ChatGPT UI Clone Screenshot](https://github.com/anishrajpoot/Project-8_chatGPT_Clone/blob/f624db15728bfd41c2b0fdd0856a99e7f2bd507e/Project-8/src/assets/Screenshot%202025-06-16%20115842.png)
+
 
